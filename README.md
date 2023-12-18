@@ -16,4 +16,16 @@ This repository is used in Python 3.11.5 in Jupyter Notebook framework with some
 
 ## What's inside the repository
 
-In this repository, we include lots of practices datasets even from books or external data from UCI and Kaggle
+In this repository, we include lots of practices datasets even from books or external data from UCI (UC Irvine Machine Learning Repository) and Kaggle datasets. Additionally, we would like to drop the references below here and include the csv file inside our repository to look the data inside the datasets easily. Also, we put the code that we have done inside this repo to look up on the functions that we have use to train in Time Series prediction.
+
+## References
+* Peixeiro, M. (2022). Time series forecasting in Python. Manning Publications Co. [Click Here](https://www.oreilly.com/library/view/time-series-forecasting/9781617299889/)
+* Yadav, A. (2021, August 19). NSE-TATAGLOBAL stock price prediction. Kaggle. [DOI](https://www.kaggle.com/code/ankiii07/nse-tataglobal-stock-price-prediction)
+
+## Acknowledgement
+I would like to send the gratitude to following advisors who take care or giving an advice for making repository, which are:
+- Asst.Prof. Ph.D. Peerapon Siripongwuttichai
+- Assoc.Prof. Ph.D. Unchalisa Taetrakul
+- Ph.D. Sansiri Tarnpradab
+- Ph.D. Piyanit Vepulanont
+- Sutthawee Weerapong
