@@ -2,7 +2,7 @@
 
 ![](banner.png)
 
-To GitHub users, welcome to our repository for visualizing time series forcasting by using Python/Jupyter Notebook for making the collection of codes for using in Time Series Forecasting practices. This repository is the collaboration between Charunthon Limseelo (Microsoft Learn Student Ambassadors) and Sirisa Kornnawawat (Google Developer Student Club), to train or have a practice for senior project of 4th year in Vistula University, Poland.
+To GitHub users, welcome to our repository for visualizing time series forcasting by using Python/Jupyter Notebook for making the collection of codes for using in Time Series Forecasting practices. This repository is the collaboration between Charunthon Limseelo (Microsoft Learn Student Ambassadors) and Sirisa Kornnawawat (Google Developer Student Club), to train or have a practice for senior project.
 
 ## Requirements
 
